@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Prints out a string to stdout.
+ * main - A program that prints a line with puts function
  * Retun: 0 (Success)
  */
 int main(void)
