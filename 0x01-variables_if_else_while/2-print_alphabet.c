@@ -3,7 +3,7 @@
 /**
   * main - Prints some letters of alphabet
   *
-  * Return: Always (Success)
+  * Return: Always 0 (Success)
   */
 
 int main(void)
@@ -19,7 +19,7 @@ int main(void)
 		}
 	}
 
-	putchar("\n");
+	putchar('\n');
 
 	return (0);
 
