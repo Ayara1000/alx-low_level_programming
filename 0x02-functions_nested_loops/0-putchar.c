@@ -1,4 +1,4 @@
-#include "Alxstudent.h"
+#include "main.h"
 
 /**
  * main - Prints "Alxstudent" followed by a new line.
